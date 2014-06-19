@@ -8,6 +8,29 @@
     <LinearLayout
             android:id="@+id/crew"
             style="@style/settingsFragmentStyle">
+            
+            
+        <com.aokp.romcontrol.widgets.DeveloperPreference
+                android:title="Andreas Daniel Fried"
+                aokp:nameDev="Andreas Daniel Fried"
+                aokp:githubLink="@string/github_and"
+                aokp:twitterHandle="root_ad"
+                aokp:emailDev="rootagnex@gmail.com"
+                aokp:donateLink="@string/donate_and"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+                
+        <com.aokp.romcontrol.widgets.DeveloperPreference
+                android:title="Jeppe Foldager"
+                aokp:nameDev="Jeppe Foldager"
+                aokp:githubLink="@string/github_jep"
+                aokp:twitterHandle="jeppefoldager"
+                aokp:emailDev="blackbearblanc@gmail.com"
+                aokp:donateLink="@string/donate_jep"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
 
         <com.aokp.romcontrol.widgets.DeveloperPreference
                 android:title="Jesus Partida"
@@ -29,6 +52,7 @@
 
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"/>
+               
 
     </LinearLayout>
 </ScrollView>
