@@ -59,11 +59,15 @@
     <string name="github_vu" translatable="false">https://github.com/VanillaUnicorn</string>
     
     <!-- VU TEAM -->
+    <string name="donate_and" translatable="false">http://forum.xda-developers.com/donatetome.php?u=4583359</string>
+    <string name="github_and" translatable="false">https://github.com/VlikeBanana</string>
     <string name="donate_jesus" translatable="false">http://forum.xda-developers.com/donatetome.php?u=4620435</string>
     <string name="github_jesus" translatable="false">https://github.com/PartimusPrime</string>
     <string name="github_chintan" translatable="false">https://github.com/Chintan1998</string>
     <string name="donate_azn" translatable="false">http://forum.xda-developers.com/donatetome.php?u=2607869</string>
     <string name="github_azn" translatable="false">https://github.com/aznrice</string>
+    <string name="donate_jep" translatable="false">jeppefoldager@gmail.com</string>
+    <string name="github_jep" translatable="false">https://plus.google.com/u/0/+JeppeFoldager/posts</string>
     
     <!-- AOKP TEAM -->
     <string name="github_akellar" translatable="false">https://github.com/akellar</string>
