@@ -78,6 +78,8 @@
     <string name="github_azn" translatable="false">https://github.com/aznrice</string>
     <string name="donate_jep" translatable="false">jeppefoldager@gmail.com</string>
     <string name="github_jep" translatable="false">https://plus.google.com/u/0/+JeppeFoldager/posts</string>
+    <string name="donate_rus" translatable="false">http://forum.xda-developers.com/donatetome.php?u=4337046</string>
+    <string name="github_rus" translatable="false">https://github.com/rush25</string>
     
     <!-- AOKP TEAM -->
     <string name="github_akellar" translatable="false">https://github.com/akellar</string>
