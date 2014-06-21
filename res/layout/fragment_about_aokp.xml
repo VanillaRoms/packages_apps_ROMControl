@@ -31,7 +31,7 @@
                 aokp:twitterHandle="root_ad"
                 aokp:githubLink="@string/github_vu"
                 aokp:donateLink="@string/donate_vu"
-                aokp:emailDev="rootagnex@gmail.com"
+                aokp:emailDev="a6056814@drdrb.net"
 
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"/>
