@@ -26,7 +26,7 @@
                 aokp:nameDev="Jeppe Foldager"
                 aokp:githubLink="@string/github_jep"
                 aokp:twitterHandle="jeppefoldager"
-                aokp:emailDev="blackbearblanc@gmail.com"
+                aokp:emailDev="qgs45978@doiea.com"
                 aokp:donateLink="@string/donate_jep"
 
                 android:layout_width="match_parent"
@@ -37,7 +37,7 @@
                 aokp:nameDev="Jesus Partida"
                 aokp:githubLink="@string/github_jesus"
                 aokp:twitterHandle="partimusprime"
-                aokp:emailDev="partimus.prime@gmail.com"
+                aokp:emailDev="a6057506@drdrb.net"
                 aokp:donateLink="@string/donate_jesus"
 
                 android:layout_width="match_parent"
